@@ -315,10 +315,3 @@ It highlights strong capabilities in:
 * backend system design
 * multi-camera orchestration
 * production-grade robustness
-
----
-
-**Positioning**:
-Real-time Vision Engineer
-Backend Engineer for AI Systems
-Edge AI / Embedded Vision Developer
